@@ -1,4 +1,4 @@
-![logo](https://github.com/natalian07/natalian07/blob/main/natalian.jpeg)
+![logo](https://github.com/natalian07/natalian07/blob/main/Natalian%20Dsouza.jpg)
 <h1 align="center">Hi 👋, I'm Natalian Dsouza</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
