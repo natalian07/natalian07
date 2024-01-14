@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻My project is available at [https://natalian-portfolio.netlify.app/](https://natalian-portfolio.netlify.app/)
+- 👨‍💻My project is available at [https://natalianmusic.vercel.app/](https://natalianmusic.vercel.app/)
 
 - 💬 Ask me about **C,CPP,HTML,CSS and My SQL**
 
