@@ -1,4 +1,4 @@
-![logo](https://github.com/natalian07/natalian07/blob/main/Natalian%20Dsouza.jpg)
+![logo]((https://github.com/natalian07/natalian07/blob/main/banner.jpg))
 <h1 align="center">Hi 👋, I'm Natalian Dsouza</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
